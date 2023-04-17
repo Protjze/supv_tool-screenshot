@@ -8,8 +8,8 @@
 - commande (Vous pouvez les changer dans: config/client.lua)
 
 ---
-start/stop: s-tool:toggle
-prendre screenshot: st
+title: s-tool-toggle
+description: st
 ---
 
 - Prendre exemple ici si vous voulez contribué : [property-img](https://github.com/SUP2Ak/property-img) (Comme vous pouvez voir, dans le config/client.lua la table options (value) et le nom des fichiers dont son ranger les images)
