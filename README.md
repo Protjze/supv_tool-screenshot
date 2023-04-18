@@ -16,6 +16,9 @@ take screenshot: st
     - [ox_lib](https://github.com/overextended/ox_lib)
     - [screenshot-basic](https://github.com/project-error/screenshot-basic)
     - [supv_core](https://github.com/SUP2Ak/supv_core)
+- optionel:
+    - [bob74_ipl](https://github.com/Bob74/bob74_ipl)
+    - [online-interiors](https://github.com/TayMcKenzieNZ/online-interiors)
 
 
 :uk:
@@ -29,3 +32,6 @@ take screenshot: st
     - [ox_lib](https://github.com/overextended/ox_lib)
     - [screenshot-basic](https://github.com/project-error/screenshot-basic)
     - [supv_core](https://github.com/SUP2Ak/supv_core)
+- optional:
+    - [bob74_ipl](https://github.com/Bob74/bob74_ipl)
+    - [online-interiors](https://github.com/TayMcKenzieNZ/online-interiors)
