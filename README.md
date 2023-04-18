@@ -3,7 +3,7 @@ start/stop: s-tool:toggle
 take screenshot: st
 ---
 
-# tool-screenshot
+# supv_tool-screenshot
 
 :fr:
 
@@ -19,6 +19,7 @@ take screenshot: st
 - optionel:
     - [bob74_ipl](https://github.com/Bob74/bob74_ipl)
     - [online-interiors](https://github.com/TayMcKenzieNZ/online-interiors)
+    - [supv_teleports-ipls](https://github.com/SUP2Ak/supv_teleports-ipls)
 
 
 :uk:
@@ -35,3 +36,4 @@ take screenshot: st
 - optional:
     - [bob74_ipl](https://github.com/Bob74/bob74_ipl)
     - [online-interiors](https://github.com/TayMcKenzieNZ/online-interiors)
+    - [supv_teleports-ipls](https://github.com/SUP2Ak/supv_teleports-ipls)
